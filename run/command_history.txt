@@ -1,0 +1,3 @@
+/summon simple_hoverboards:green_hoverboard
+/give @s simple_hoverboards:green_hoverboard_item
+/kill @e[type=item]

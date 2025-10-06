@@ -1,0 +1,9 @@
+{
+  "_fv": 79,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "K",
+    "keyBindingName": "Hoverboard Jump Keybind",
+    "keyBindingCategoryKey": "misc"
+  }
+}

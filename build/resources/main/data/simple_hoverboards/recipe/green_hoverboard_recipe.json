@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:green_dye"
+    },
+    "c": {
+      "item": "minecraft:nether_star"
+    },
+    "d": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "simple_hoverboards:green_hoverboard_item",
+    "count": 1
+  }
+}
